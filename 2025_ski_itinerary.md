@@ -8,7 +8,7 @@
 
 ### **Detailed Itinerary**
 
-#### **January**
+#### **January: Ski Trips in Japan**
 
 | Dates         | Location                                | Activities                          | Ikon Pass Destination | Accommodation       | Estimated Costs                | Need to Rent a Car |
 |---------------|-----------------------------------------|-------------------------------------|-----------------------|---------------------|--------------------------------|--------------------|
@@ -20,40 +20,34 @@
 | Jan 29-30     | **Travel to Vancouver**, Canada        | Flight                              | -                     | Family/Friends      | **Flight**: $800               | No                 |
 | Jan 31        | **Vancouver**, Canada                  | Settle in, remote work              | -                     | Family/Friends      | -                              | No                 |
 
-#### **February - March**
+#### **February: Ski Trips in BC and Alberta**
+
+| Dates       | Location                     | Activities                          | Ikon Pass Destination | Accommodation       | Estimated Costs                | Need to Rent a Car |
+|-------------|------------------------------|-------------------------------------|-----------------------|---------------------|--------------------------------|--------------------|
+| Feb 1-7     | **Vancouver**, Canada        | Skiing at **Cypress Mountain** (day trips from Vancouver) | **Cypress Mountain** | Family/Friends      | Local transport costs: ~$100   | **Own Car**        |
+| Feb 8       | **Drive to Sun Peaks Resort** (~4.5 hours) | Travel day                         | -                     | Hotel: $100/night   | Fuel: $50                      | **Own Car**        |
+| Feb 8-10    | **Sun Peaks Resort**, BC     | Skiing (3 days)                     | **Sun Peaks Resort**  | Hotel: $100/night   | **Accom**: $300<br>**Food**: $150 | **Own Car**        |
+| Feb 11      | **Drive to Revelstoke** (~2.5 hours) | Travel day                         | -                     | Hotel: $100/night   | Fuel: $40                      | **Own Car**        |
+| Feb 11-13   | **Revelstoke**, BC           | Skiing (3 days)                     | **Revelstoke**        | Hotel: $100/night   | **Accom**: $300<br>**Food**: $150 | **Own Car**        |
+| Feb 14      | **Drive to Panorama** (~4 hours) | Travel day                         | -                     | Hotel: $100/night   | Fuel: $50                      | **Own Car**        |
+| Feb 14-16   | **Panorama**, BC             | Skiing (3 days)                     | **Panorama**          | Hotel: $100/night   | **Accom**: $300<br>**Food**: $150 | **Own Car**        |
+| Feb 17      | **Drive to RED Mountain** (~6 hours) | Travel day                         | -                     | Hotel: $100/night   | Fuel: $70                      | **Own Car**        |
+| Feb 17-19   | **RED Mountain**, BC         | Skiing (3 days)                     | **RED Mountain**      | Hotel: $100/night   | **Accom**: $300<br>**Food**: $150 | **Own Car**        |
+| Feb 20      | **Drive to SkiBig3** (~6 hours) | Travel day                         | -                     | Hotel: $130/night   | Fuel: $80                      | **Own Car**        |
+| Feb 21-25   | **SkiBig3**, Alberta         | Skiing (5 days)                     | **SkiBig3**           | Hotel: $130/night   | **Accom**: $650<br>**Food**: $250 | **Own Car**        |
+| Feb 26-27   | **Drive back to Vancouver** (~9 hours with overnight stop) | Travel days                         | -                     | Hotel: $100/night   | **Accom**: $200<br>Fuel: $100 | **Own Car**        |
+| Feb 28-Mar 6| **Vancouver**, Canada        | Remote work                         | -                     | Family/Friends      | Local transport costs: ~$100   | **Own Car**        |
+
+#### **March: Skip in Zermatt, Switzerland**
 
 | Dates         | Location                                  | Activities                          | Ikon Pass Destinations | Accommodation       | Estimated Costs                | Need to Rent a Car |
 |---------------|-------------------------------------------|-------------------------------------|------------------------|---------------------|--------------------------------|--------------------|
-| Feb 1 - Mar 6 | **Vancouver & BC Resorts**, Canada        | Skiing & remote work                | Multiple (see below)   | Family/Friends & Hotels | See breakdown below          | **Use Own Car**    |
 | Mar 7         | **Travel to Zermatt**, Switzerland        | Flight                              | -                     | -                   | **Flight**: $700               | No                 |
 | Mar 8-16      | **Zermatt**, Switzerland                  | Skiing (planned trip)               | **Zermatt Matterhorn** | As planned          | As per planned trip            | No                 |
 | Mar 17        | **Travel back to Vancouver**, Canada      | Flight                              | -                     | Family/Friends      | **Flight**: $700               | No                 |
 | Mar 18-31     | **Vancouver**, Canada                     | Remote work                         | -                     | Family/Friends      | -                              | No                 |
 
-**February-March Ski Trips in BC and Alberta:**
-
-- **Feb 1-7**: Skiing at **Cypress Mountain** (day trips from Vancouver).
-- **Feb 8**: Drive to **Sun Peaks Resort** (~4.5 hours).
-- **Feb 8-10**: Ski at **Sun Peaks Resort** (3 days).
-- **Feb 11**: Drive to **Revelstoke Mountain Resort** (~2.5 hours).
-- **Feb 11-13**: Ski at **Revelstoke** (3 days).
-- **Feb 14**: Drive to **Panorama** (~4 hours).
-- **Feb 14-16**: Ski at **Panorama** (3 days).
-- **Feb 17**: Drive to **RED Mountain** (~6 hours).
-- **Feb 17-19**: Ski at **RED Mountain** (3 days).
-- **Feb 20**: Drive to **SkiBig3** (Banff/Lake Louise/Sunshine Village) (~6 hours).
-- **Feb 21-25**: Ski at **SkiBig3** (5 days).
-- **Feb 26-27**: Drive back to Vancouver (~9 hours, with overnight stop).
-- **Feb 28 - Mar 6**: Remote work from Vancouver.
-
-**Estimated Costs for Ski Trips:**
-
-- **Accommodation**: ~$100/night average for 18 nights = **$1,800**
-- **Food**: $50/day for 20 days = **$1,000**
-- **Fuel**: Approximately **$500**
-- **Parking and Miscellaneous**: **$200**
-
-#### **April**
+#### **April: Sydney**
 
 | Dates         | Location                          | Activities                | Ikon Pass Destination | Accommodation     | Estimated Costs                | Need to Rent a Car |
 |---------------|-----------------------------------|---------------------------|-----------------------|-------------------|--------------------------------|--------------------|
