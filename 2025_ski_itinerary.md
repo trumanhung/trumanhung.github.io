@@ -20,6 +20,16 @@
 | Jan 29-30     | **Travel to Vancouver**, Canada        | Flight                              | -                     | Family/Friends      | **Flight**: $800               | No                 |
 | Jan 31        | **Vancouver**, Canada                  | Settle in, remote work              | -                     | Family/Friends      | -                              | No                 |
 
+#### **February - March**
+
+| Dates         | Location                                  | Activities                          | Ikon Pass Destinations | Accommodation       | Estimated Costs                | Need to Rent a Car |
+|---------------|-------------------------------------------|-------------------------------------|------------------------|---------------------|--------------------------------|--------------------|
+| Feb 1 - Mar 6 | **Vancouver & BC Resorts**, Canada        | Skiing & remote work                | Multiple (see below)   | Family/Friends & Hotels | See breakdown below          | **Use Own Car**    |
+| Mar 7         | **Travel to Zermatt**, Switzerland        | Flight                              | -                     | -                   | **Flight**: $700               | No                 |
+| Mar 8-16      | **Zermatt**, Switzerland                  | Skiing (planned trip)               | **Zermatt Matterhorn** | As planned          | As per planned trip            | No                 |
+| Mar 17        | **Travel back to Vancouver**, Canada      | Flight                              | -                     | Family/Friends      | **Flight**: $700               | No                 |
+| Mar 18-31     | **Vancouver**, Canada                     | Remote work                         | -                     | Family/Friends      | -                              | No                 |
+
 **February-March Ski Trips in BC and Alberta:**
 
 - **Feb 1-7**: Skiing at **Cypress Mountain** (day trips from Vancouver).
