@@ -7,8 +7,8 @@
 | Dec 17    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $150                    | Own Car                | **Finalized**          |
 | Dec 18-21 | **Sun Peaks Resort**, BC    | Skiing (4 days)                               | **Sun Peaks Resort**  | Sun Peaks Lodge | **Accom**: $500<br>**Food**: $200 | Own Car                | Yes          |
 | Dec 22-25 | **Revelstoke Mountain Resort**, BC    | Skiing (4 days)                               | **Revelstoke Mountain Resort**  | Revelstoke Lodge + Bear View Lodges + Swiss Chalet Motel | **Accom**: $500<br>**Food**: $200 | Own Car                | **Finalized**          |
-| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $150                    | Own Car                | **Finalized**          |
-| Dec 30-31 | **Vancouver**, Canada       | Rest               | -                     | Family/Friends    | -                                 | No                 | **Finalized**          |
+| Dec 26    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $150                    | Own Car                | **Finalized**          |
+| Dec 27-31 | **Vancouver**, Canada       | Rest               | -                     | Family/Friends    | -                                 | No                 | **Finalized**          |
 
 ---
 
