@@ -4,9 +4,10 @@
 
 | Dates     | Location                    | Activities                                    | Ikon Pass Destination | Accommodation     | Estimated Costs                   | Need to Rent a Car | Pre-planned |
 |-----------|-----------------------------|-----------------------------------------------|-----------------------|-------------------|-----------------------------------|--------------------|-------------|
-| Dec 21    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $100                    | Yes                | No          |
-| Dec 22-28 | **Sun Peaks Resort**, BC    | Skiing (7 days)                               | **Sun Peaks Resort**  | Hotel: $100/night | **Accom**: $700<br>**Food**: $350 | Yes                | No          |
-| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $100                    | Yes                | No          |
+| Dec 18    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $100                    | Yes                | Yes          |
+| Dec 19-23 | **Sun Peaks Resort**, BC    | Skiing (5 days)                               | **Sun Peaks Resort**  | Hotel: $100/night | **Accom**: $700<br>**Food**: $350 | Yes                | Yes          |
+| Dec 24-28 | **Revelstoke Mountain Resort**, BC    | Skiing (5 days)                               | **Revelstoke Mountain Resort**  | Hotel: $100/night | **Accom**: $700<br>**Food**: $350 | Yes                | Yes          |
+| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $100                    | Yes                | Yes          |
 | Dec 30-31 | **Vancouver**, Canada       | Rest and prepare for next trips               | -                     | Family/Friends    | -                                 | No                 | No          |
 
 ---
@@ -134,25 +135,26 @@
 
 ### **Ikon Pass Destinations Visited**
 
-1. **7 days - Sun Peaks Resort**, Canada (December 2024)
-2. **7 days - Arai Snow Resort**, Japan
-3. **7 days - Niseko United**, Japan
-4. **7 days - Cypress Mountain**, Canada
-5. **5 days - Winter Park Resort**, USA
-6. **3 days - Copper Mountain Resort**, USA
-7. **6 days - Aspen Snowmass**, USA
-8. **7 days - Chamonix Mont-Blanc**, France
-9. **7 days - Zermatt Matterhorn**, Switzerland
-10. **7 days - Dolomiti Superski**, Italy
-11. **7 days - St. Moritz**, Switzerland
-12. **7 days - Mammoth Mountain**, USA
-13. **7 days - Mt. Bachelor**, USA
-14. **7 days - Coronet Peak & The Remarkables**, New Zealand
-15. **7 days - Thredbo**, Australia
-16. **7 days - Mt Buller**, Australia
-17. **7 days - Valle Nevado**, Chile
+1. **5 days - Sun Peaks Resort**, Canada (December 2024)
+2. **5 days - Revelstoke Mountain Resort**, Canada (December 2024)
+3. **7 days - Arai Snow Resort**, Japan
+4. **7 days - Niseko United**, Japan
+5. **7 days - Cypress Mountain**, Canada
+6. **5 days - Winter Park Resort**, USA
+7. **3 days - Copper Mountain Resort**, USA
+8. **6 days - Aspen Snowmass**, USA
+9. **7 days - Chamonix Mont-Blanc**, France
+10. **7 days - Zermatt Matterhorn**, Switzerland
+11. **7 days - Dolomiti Superski**, Italy
+12. **7 days - St. Moritz**, Switzerland
+13. **7 days - Mammoth Mountain**, USA
+14. **7 days - Mt. Bachelor**, USA
+15. **7 days - Coronet Peak & The Remarkables**, New Zealand
+16. **7 days - Thredbo**, Australia
+17. **7 days - Mt Buller**, Australia
+18. **7 days - Valle Nevado**, Chile
 
-**Total Skiing Days: 112 days**
+**Total Skiing Days: 115 days**
 
 ---
 
