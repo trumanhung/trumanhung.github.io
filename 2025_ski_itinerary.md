@@ -1,6 +1,6 @@
 ### **2025 Ski Itinerary**
 
-#### **December 2024: Skiing in Sun Peaks **
+#### **December 2024: Skiing in Sun Peaks**
 
 | Dates     | Location                    | Activities                                    | Ikon Pass Destination | Accommodation     | Estimated Costs                   | Need to Rent a Car | Pre-planned |
 |-----------|-----------------------------|-----------------------------------------------|-----------------------|-------------------|-----------------------------------|--------------------|-------------|
