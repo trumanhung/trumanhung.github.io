@@ -4,10 +4,10 @@
 
 | Dates     | Location                    | Activities                                    | Ikon Pass Destination | Accommodation     | Estimated Costs                   | Need to Rent a Car | Pre-planned |
 |-----------|-----------------------------|-----------------------------------------------|-----------------------|-------------------|-----------------------------------|--------------------|-------------|
-| Dec 18    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $100                    | Yes                | Yes          |
-| Dec 19-23 | **Sun Peaks Resort**, BC    | Skiing (5 days)                               | **Sun Peaks Resort**  | Hotel: $100/night | **Accom**: $700<br>**Food**: $350 | Yes                | Yes          |
-| Dec 24-28 | **Revelstoke Mountain Resort**, BC    | Skiing (5 days)                               | **Revelstoke Mountain Resort**  | Hotel: $100/night | **Accom**: $700<br>**Food**: $350 | Yes                | Yes          |
-| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $100                    | Yes                | Yes          |
+| Dec 18    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $200                    | Yes                | Yes          |
+| Dec 19-23 | **Sun Peaks Resort**, BC    | Skiing (5 days)                               | **Sun Peaks Resort**  | Hotel: $100/night | **Accom**: $500<br>**Food**: $300 | Yes                | Yes          |
+| Dec 24-28 | **Revelstoke Mountain Resort**, BC    | Skiing (5 days)                               | **Revelstoke Mountain Resort**  | Hotel: $100/night | **Accom**: $500<br>**Food**: $300 | Yes                | Yes          |
+| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $200                    | Yes                | Yes          |
 | Dec 30-31 | **Vancouver**, Canada       | Rest and prepare for next trips               | -                     | Family/Friends    | -                                 | No                 | No          |
 
 ---
