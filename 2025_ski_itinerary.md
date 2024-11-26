@@ -2,25 +2,25 @@
 
 #### **December 2024: Skiing in Sun Peaks**
 
-| Dates     | Location                    | Activities                                    | Ikon Pass Destination | Accommodation     | Estimated Costs                   | Need to Rent a Car | Pre-planned |
+| Dates     | Location                    | Activities                                    | Ikon Pass Destination | Accommodation     | Estimated Costs                   | Need to Rent a Car | Status |
 |-----------|-----------------------------|-----------------------------------------------|-----------------------|-------------------|-----------------------------------|--------------------|-------------|
-| Dec 18    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $150                    | Yes                | Yes          |
-| Dec 19-23 | **Sun Peaks Resort**, BC    | Skiing (5 days)                               | **Sun Peaks Resort**  | Hotel: $100/night | **Accom**: $500<br>**Food**: $200 | Yes                | Yes          |
-| Dec 24-28 | **Revelstoke Mountain Resort**, BC    | Skiing (5 days)                               | **Revelstoke Mountain Resort**  | Hotel: $100/night | **Accom**: $500<br>**Food**: $200 | Yes                | Yes          |
-| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $150                    | Yes                | Yes          |
-| Dec 30-31 | **Vancouver**, Canada       | Rest and prepare for next trips               | -                     | Family/Friends    | -                                 | No                 | No          |
+| Dec 17    | **Travel to Sun Peaks**, BC | Drive from Vancouver to Sun Peaks (4.5 hours) | -                     | -                 | **Fuel**: $150                    | Own Car                | **Finalized**          |
+| Dec 18-21 | **Sun Peaks Resort**, BC    | Skiing (4 days)                               | **Sun Peaks Resort**  | Sun Peaks Lodge | **Accom**: $500<br>**Food**: $200 | No                | Yes          |
+| Dec 22-25 | **Revelstoke Mountain Resort**, BC    | Skiing (4 days)                               | **Revelstoke Mountain Resort**  | Revelstoke Lodge + Bear View Lodges + Swiss Chalet Motel | **Accom**: $500<br>**Food**: $200 | Own Car                | **Finalized**          |
+| Dec 29    | **Return to Vancouver**     | Drive back to Vancouver                       | -                     | -                 | **Fuel**: $150                    | Own Car                | **Finalized**          |
+| Dec 30-31 | **Vancouver**, Canada       | Rest               | -                     | Family/Friends    | -                                 | No                 | **Finalized**          |
 
 ---
 
 #### **January 2025: Ski Trips in Japan**
 
-| Dates        | Location                    | Activities                            | Ikon Pass Destination | Accommodation     | Estimated Costs                                                | Need to Rent a Car | Pre-planned |
+| Dates        | Location                    | Activities                            | Ikon Pass Destination | Accommodation     | Estimated Costs                                                | Need to Rent a Car | Status |
 |--------------|-----------------------------|---------------------------------------|-----------------------|-------------------|----------------------------------------------------------------|--------------------|-------------|
-| Jan 1-15     | **Hong Kong**               | Family trip                           | -                     | Family/Friends    | **Flight**: Pre-planned                                        | No                 | **Yes**     |
+| Jan 1-15     | **Hong Kong**               | Family trip                           | -                     | Family/Friends    | **Flight**: Pre-planned                                        | No                 | **Pre-Planned**     |
 | Jan 16       | **Travel to Arai**, Japan   | Flight to Tokyo, train to Arai        | -                     | -                 | **Flight**: $400<br>**Train**: $100                            | No                 | No          |
 | Jan 17-23    | **Arai Snow Resort**, Japan | Skiing (7 days)                       | **Arai Snow Resort**  | Hotel: $80/night  | **Accom**: $560<br>**Food**: $350                              | No                 | No          |
-| Jan 24       | **Travel to Saitama**       | Train to Saitama/Tokyo                | -                     | Hotel: $100/night | **Transport**: $50<br>**Accom**: $100                          | No                 | **Yes**     |
-| Jan 25-26    | **Saitama**, Japan          | **GMO Sonic Festival**                | -                     | Hotel: $100/night | **Accom**: $200<br>**Food**: $150<br>**Festival Ticket**: $200 | No                 | **Yes**     |
+| Jan 24       | **Travel to Saitama**       | Train to Saitama/Tokyo                | -                     | Hotel: $100/night | **Transport**: $50<br>**Accom**: $100                          | No                 | **Pre-Planned**     |
+| Jan 25-26    | **Saitama**, Japan          | **GMO Sonic Festival**                | -                     | Hotel: $100/night | **Accom**: $200<br>**Food**: $150<br>**Festival Ticket**: $200 | No                 | **Pre-Planned**     |
 | Jan 27       | **Travel to Niseko**, Japan | Flight to Sapporo, transfer to Niseko | -                     | -                 | **Flight**: $200<br>**Transport**: $50                         | No                 | No          |
 | Jan 28-Feb 3 | **Niseko United**, Japan    | Skiing (7 days)                       | **Niseko United**     | Hotel: $100/night | **Accom**: $700<br>**Food**: $350                              | No                 | No          |
 | Feb 4-5      | **Travel to Vancouver**     | Flight to Vancouver                   | -                     | -                 | **Flight**: $800                                               | No                 | No          |
@@ -30,13 +30,13 @@
 
 #### **February 2025: Skiing in Colorado and Palm Tree Music Festival**
 
-| Dates     | Location                       | Activities                             | Ikon Pass Destination      | Accommodation     | Estimated Costs                                       | Need to Rent a Car | Pre-planned |
+| Dates     | Location                       | Activities                             | Ikon Pass Destination      | Accommodation     | Estimated Costs                                       | Need to Rent a Car | Status |
 |-----------|--------------------------------|----------------------------------------|----------------------------|-------------------|-------------------------------------------------------|--------------------|-------------|
 | Feb 6-11  | **Vancouver**, Canada          | Skiing at **Cypress Mountain**         | **Cypress Mountain**       | Family/Friends    | Local transport: ~$100                                | No                 | No          |
 | Feb 12    | **Travel to Denver**, CO       | Flight from Vancouver to Denver        | -                          | -                 | **Flight**: $300                                      | No                 | No          |
 | Feb 13-17 | **Winter Park**, CO            | Skiing (5 days)                        | **Winter Park Resort**     | Hotel: $150/night | **Accom**: $750<br>**Food**: $350                     | Maybe              | No          |
 | Feb 18-20 | **Copper Mountain**, CO        | Skiing (3 days)                        | **Copper Mountain Resort** | Hotel: $150/night | **Accom**: $450<br>**Food**: $200                     | Maybe              | No          |
-| Feb 21-22 | **Aspen**, CO                  | **Palm Tree Music Festival**           | -                          | Hotel: $200/night | **Accom**: $400<br>**Food**: $200<br>**Ticket**: $300 | Maybe              | **Yes**     |
+| Feb 21-22 | **Aspen**, CO                  | **Palm Tree Music Festival**           | -                          | Hotel: $200/night | **Accom**: $400<br>**Food**: $200<br>**Ticket**: $300 | Maybe              | **Pre-Planned**     |
 | Feb 23-28 | **Aspen Snowmass**, CO         | Skiing (6 days)                        | **Aspen Snowmass**         | Hotel: $200/night | **Accom**: $1,200<br>**Food**: $600                   | Maybe              | No          |
 | Feb 29    | **Travel to Chamonix**, France | Flight to Geneva, transfer to Chamonix | -                          | -                 | **Flight**: $700                                      | No                 | No          |
 
@@ -44,14 +44,14 @@
 
 #### **March 2025: Skiing in Europe and Tomorrowland Winter Festival**
 
-| Dates        | Location                              | Activities                       | Ikon Pass Destination   | Accommodation      | Estimated Costs                                       | Need to Rent a Car | Pre-planned |
+| Dates        | Location                              | Activities                       | Ikon Pass Destination   | Accommodation      | Estimated Costs                                       | Need to Rent a Car | Status |
 |--------------|---------------------------------------|----------------------------------|-------------------------|--------------------|-------------------------------------------------------|--------------------|-------------|
 | Mar 1        | **Chamonix**, France                  | Rest and settle in               | -                       | Hostel: $80/night  | **Accom**: $80<br>**Food**: $50                       | No                 | No          |
 | Mar 2-8      | **Chamonix**, France                  | Skiing (7 days)                  | **Chamonix Mont-Blanc** | Hostel: $80/night  | **Accom**: $560<br>**Food**: $350                     | No                 | No          |
 | Mar 9        | **Travel to Zermatt**, Switzerland    | Train to Zermatt                 | -                       | -                  | **Transport**: $100                                   | No                 | No          |
-| Mar 10-16    | **Zermatt**, Switzerland              | Skiing (7 days)                  | **Zermatt Matterhorn**  | As planned         | As per planned trip                                   | No                 | **Yes**     |
+| Mar 10-16    | **Zermatt**, Switzerland              | Skiing (7 days)                  | **Zermatt Matterhorn**  | As planned         | As per planned trip                                   | No                 | **Pre-Planned**     |
 | Mar 17       | **Travel to Alpe d'Huez**, France     | Train/bus to Alpe d'Huez         | -                       | -                  | **Transport**: $150                                   | No                 | No          |
-| Mar 18-21    | **Alpe d'Huez**, France               | **Tomorrowland Winter Festival** | -                       | Hotel: $150/night  | **Accom**: $600<br>**Food**: $300<br>**Ticket**: $400 | No                 | **Yes**     |
+| Mar 18-21    | **Alpe d'Huez**, France               | **Tomorrowland Winter Festival** | -                       | Hotel: $150/night  | **Accom**: $600<br>**Food**: $300<br>**Ticket**: $400 | No                 | **Pre-Planned**     |
 | Mar 22       | **Travel to Dolomiti**, Italy         | Train to Dolomiti Superski area  | -                       | -                  | **Transport**: $200                                   | No                 | No          |
 | Mar 23-29    | **Dolomiti Superski**, Italy          | Skiing (7 days)                  | **Dolomiti Superski**   | Hostel: $80/night  | **Accom**: $560<br>**Food**: $350                     | No                 | No          |
 | Mar 30       | **Travel to St. Moritz**, Switzerland | Train to St. Moritz              | -                       | -                  | **Transport**: $150                                   | No                 | No          |
@@ -61,16 +61,16 @@
 
 #### **April 2025: Family Time in Sydney**
 
-| Dates    | Location              | Activities                  | Ikon Pass Destination | Accommodation  | Estimated Costs    | Need to Rent a Car | Pre-planned |
+| Dates    | Location              | Activities                  | Ikon Pass Destination | Accommodation  | Estimated Costs    | Need to Rent a Car | Status |
 |----------|-----------------------|-----------------------------|-----------------------|----------------|--------------------|--------------------|-------------|
-| Apr 7    | **Travel to Sydney**  | Flight to Sydney            | -                     | -              | **Flight**: $1,000 | No                 | **Yes**     |
-| Apr 8-30 | **Sydney**, Australia | Family trip and remote work | -                     | Family/Friends | -                  | No                 | **Yes**     |
+| Apr 7    | **Travel to Sydney**  | Flight to Sydney            | -                     | -              | **Flight**: $1,000 | No                 | **Pre-Planned**     |
+| Apr 8-30 | **Sydney**, Australia | Family trip and remote work | -                     | Family/Friends | -                  | No                 | **Pre-Planned**     |
 
 ---
 
 #### **May 2025: Skiing in the United States**
 
-| Dates     | Location                   | Activities                | Ikon Pass Destination | Accommodation      | Estimated Costs                        | Need to Rent a Car | Pre-planned |
+| Dates     | Location                   | Activities                | Ikon Pass Destination | Accommodation      | Estimated Costs                        | Need to Rent a Car | Status |
 |-----------|----------------------------|---------------------------|-----------------------|--------------------|----------------------------------------|--------------------|-------------|
 | May 1     | **Travel to Los Angeles**  | Flight from Sydney        | -                     | -                  | **Flight**: $1,000                     | No                 | No          |
 | May 2     | **Travel to Mammoth**      | Drive to Mammoth Mountain | -                     | Car Rental         | **Car Rental**: $600<br>**Fuel**: $100 | Yes                | No          |
@@ -84,7 +84,7 @@
 
 #### **June - Early July 2025: Time in Canada**
 
-| Dates        | Location              | Activities  | Ikon Pass Destination | Accommodation  | Estimated Costs | Need to Rent a Car | Pre-planned |
+| Dates        | Location              | Activities  | Ikon Pass Destination | Accommodation  | Estimated Costs | Need to Rent a Car | Status |
 |--------------|-----------------------|-------------|-----------------------|----------------|-----------------|--------------------|-------------|
 | Jun 1-Jul 10 | **Vancouver**, Canada | Remote work | -                     | Family/Friends | -               | No                 |             |
 
@@ -92,7 +92,7 @@
 
 #### **Mid-July - August 2025: Skiing in the Southern Hemisphere**
 
-| Dates        | Location                    | Activities            | Ikon Pass Destination             | Accommodation      | Estimated Costs                                               | Need to Rent a Car | Pre-planned |
+| Dates        | Location                    | Activities            | Ikon Pass Destination             | Accommodation      | Estimated Costs                                               | Need to Rent a Car | Status |
 |--------------|-----------------------------|-----------------------|-----------------------------------|--------------------|---------------------------------------------------------------|--------------------|-------------|
 | Jul 11       | **Travel to New Zealand**   | Flight to Queenstown  | -                                 | -                  | **Flight**: $1,200                                            | No                 | No          |
 | Jul 12-18    | **Queenstown**, New Zealand | Skiing (7 days)       | **Coronet Peak, The Remarkables** | Airbnb: $120/night | **Accom**: $840<br>**Food**: $350<br>**Car Rental**: $800     | Yes                | No          |
@@ -108,7 +108,7 @@
 
 #### **September - October 2025: Time Outside Canada**
 
-| Dates        | Location        | Activities             | Ikon Pass Destination | Accommodation | Estimated Costs                                              | Need to Rent a Car | Pre-planned |
+| Dates        | Location        | Activities             | Ikon Pass Destination | Accommodation | Estimated Costs                                              | Need to Rent a Car | Status |
 |--------------|-----------------|------------------------|-----------------------|---------------|--------------------------------------------------------------|--------------------|-------------|
 | Sep 1-Oct 31 | **Europe/Asia** | Remote work and travel | -                     | Hostel/Airbnb | **Accom**: $3,000<br>**Food**: $1,200<br>**Flights**: $1,500 | No                 | No          |
 
@@ -116,7 +116,7 @@
 
 #### **November - December 2025: Return to Canada**
 
-| Dates         | Location              | Activities  | Ikon Pass Destination | Accommodation  | Estimated Costs | Need to Rent a Car | Pre-planned |
+| Dates         | Location              | Activities  | Ikon Pass Destination | Accommodation  | Estimated Costs | Need to Rent a Car | Status |
 |---------------|-----------------------|-------------|-----------------------|----------------|-----------------|--------------------|-------------|
 | Nov 1-Dec 31  | **Vancouver**, Canada | Remote work | -                     | Family/Friends | -               | No                 | No          |
 
@@ -181,7 +181,7 @@
 
 ### **Notes**
 
-- **Pre-planned Trips**: Clearly marked with "**Yes**" in the "Pre-planned" column to ensure they are not altered.
+- **Pre-planned Trips**: Clearly marked with "**Pre-planned**" or "**Finalized**" in the "Status" column to ensure they are not altered.
 - **Travel Days**: Allocated specific days for long-distance travel and flights.
 - **Ikon Pass Usage**: Limited skiing to a maximum days at each Ikon resort, as per pass 
   limitations.
