@@ -182,13 +182,15 @@
 
 ---
 
-### **Notes**
+### **Rules**
 
-- **Finalized Trips**: Clearly marked with  "**Finalized**" in the 
+- **Finalized Trips**: Clearly marked with  "**Yes**" in the 
   "Finalized" column to ensure they are not altered, not even the dates.
 - **Travel Days**: Allocated specific days for long-distance travel and flights.
 - **Ikon Pass Usage**: Limited skiing to a maximum days at each Ikon resort, as per pass 
-  limitations.
+  limitations. Some destinations have access up to 7 days while some have unlimited access.
+- **Ikon Pass Expiry Date**: It expires in late 2025 when the southern hemisphere resorts in 
+  New Zealand and Chile end.
 - **Time in Canada**: Adjusted to stay within the 183-day limit to comply with visa and tax regulations.
 - **Car Rentals**: Used own car in Canada and rented cars in other countries as needed.
 - **Rest Days**: Included rest and sightseeing days to prevent burnout.
