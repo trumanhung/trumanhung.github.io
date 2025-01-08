@@ -6,8 +6,9 @@
 |-----------|------------------------------------|-----------------------------------------------|--------------------------------|----------------------------------------------------------|-----------------------------------|--------------------|-----------|
 | Dec 17    | **Travel to Sun Peaks**, BC        | Drive from Vancouver to Sun Peaks (4.5 hours) | -                              | -                                                        | **Fuel**: $150                    | Own Car            | **Yes**   |
 | Dec 18-20 | **Sun Peaks Resort**, BC           | Skiing with Tony (3 days)                     | **Sun Peaks Resort**           | Sun Peaks Lodge                                          | **Accom**: $500<br>**Food**: $200 | Own Car            | **Yes**   |
-| Dec 21-25 | **Revelstoke Mountain Resort**, BC | Skiing with Tony (5 days)                     | **Revelstoke Mountain Resort** | Revelstoke Lodge + Bear View Lodges + Swiss Chalet Motel | **Accom**: $500<br>**Food**: $200 | Own Car            | **Yes**   |
+| Dec 21-25 | **Revelstoke Mountain Resort**, BC | Skiing with Tony (4 days)                     | **Revelstoke Mountain Resort** | Revelstoke Lodge + Bear View Lodges | **Accom**: $500<br>**Food**: $200                      | Own Car            | **Yes**   |
 | Dec 26    | **Return to Vancouver**            | Drive back to Vancouver                       | -                              | -                                                        | **Fuel**: $150                    | Own Car            | **Yes**   |
+| Dec 27    | **Pick up Blue Model y from Elong Ma**| Profit                                     | -                              | -                                                        | **Electricity**: free             | My car             | **Yes**   |
 | Dec 27-31 | **Vancouver**, Canada              | Rest                                          | -                              | Family/Friends                                           | -                                 | No                 | **Yes**   |
 
 ---
